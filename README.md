@@ -4,5 +4,6 @@
 ### 使用方法
 
 ```
+pip install httpx click loguru noneprompt
 python auto_autodl.py
 ```
